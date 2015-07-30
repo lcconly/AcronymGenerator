@@ -19,7 +19,7 @@ GenAcronym/dic
   
 GenAcronym/src:代码部分
     GenAcronym/src/io:TextReader.java读文件的api
-                    TextWriter.java写文件的api
+                	    TextWriter.java写文件的api
     GenAcronym/src/changeWord:wordNet返回同义词的api（先安装WordNet，设置环境变量WNHOME，指向WordNet的安装根目录。例如：WNHOME = “E:\Commonly Application\WordNet\2.1”；）
     GenAcronym/src/LDA_file_deal:comPapaer.java（训练处理文件，有文章处理成LDA能运行的格式。）GetVocab.java（提取单词。）
     GenAcronym/src/stemmer:波特词根算法
@@ -29,7 +29,7 @@ GenAcronym/src:代码部分
 =====================================================================================
 
 下面主要是之前的一些尝试，和主要程序无关
-    缩略词分类/:在CiteSeerx上查找的含缩略词的分类
-    SearchCrawler/CiteSeerx_search.java:在CiterSeerx上爬虫寻找文章标题程序
-    GetPaperName/：采用LSI获取缩略词的方式
-    GenAcronym/src/handler：采用K-means分类的方式，包含利用TF-idf训练的方法
+缩略词分类/:在CiteSeerx上查找的含缩略词的分类
+SearchCrawler/CiteSeerx_search.java:在CiterSeerx上爬虫寻找文章标题程序
+GetPaperName/：采用LSI获取缩略词的方式
+GenAcronym/src/handler：采用K-means分类的方式，包含利用TF-idf训练的方法
