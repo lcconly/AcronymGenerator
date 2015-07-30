@@ -1,6 +1,6 @@
 运行主要文件：GenAcronym/src/main/genTest.java 输出20个缩略词选项。推荐系统没加上去，因为JWI是在只支持windows上的环境。<br>
 GenAcronym/<br>
->>GenAcronym/edu.mit.jwi_2.3.3_jdk.jar和GenAcronym/commons-logging.jar:运行wordNet同义词查询必须的jar包<br>
+>GenAcronym/edu.mit.jwi_2.3.3_jdk.jar和GenAcronym/commons-logging.jar:运行wordNet同义词查询必须的jar包<br>
 GenAcronym/LAD_result<br>
 >GenAcronym/LAD_result/ComClass.txt:每个单词在每个topic中的排名，每行是单词和30个数字<br>
 >GenAcronym/LAD_result/ComVocabStop.txt:计算机领域从abstract提取出的去除停用词的词（不一定是单词）<br>
