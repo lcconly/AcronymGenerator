@@ -1,0 +1,149 @@
+{\rtf1\ansi\ansicpg936\cocoartf1265\cocoasubrtf210
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww12300\viewh9900\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time\
+Brahms: Byzantine Resilient Random Membership Sampling\
+PRISM: Probabilistic symbolic model checker\
+WebSets: Extracting Sets of Entities from the Web Using Unsupervised Information Extraction\
+metamidi: a tool for automatic metadata extraction from MIDI\
+HumanEva: Synchronized video and motion capture dataset for evaluation of articulated human motion\
+ProLogICA: a practical system for Abductive Logic Programming\
+WebGuide: Guiding Collaborative Learning on the Web with Perspectives\
+HiLog: A foundation for higher-order logic programming\
+CANoE: A Context-Aware Notification Model to Support the Care of Older Adults in a Nursing Home\
+hypre: a Library of High Performance Preconditioners\
+PARTHEO: A High Performance Parallel Theorem Prover\
+Calsensin: A Novel Calcium-binding Protein Expressed in a Subset of Peripheral Leech Neurons Fasciculating in a Single Axon Tract\
+SciSumm: A Multi-Document Summarization System for Scientific Articles\
+BoosTexter: A Boosting-based System for Text Categorization \
+Cypher: Cyber Photographer in Wonder Space\
+CONPLAN: construction planning and buildability evaluation in an integrated and intelligent construction environment\
+GridSim: A Toolkit for the Modeling and Simulation of Distributed Resource Management and Scheduling for Grid Computing\
+LIBLINEAR: A Library for Large Linear Classification\
+WEGO: a web tool for plotting GO annotations\
+LOGML: Log Markup Language for Web Usage Mining\
+BodyQoS: Adaptive and Radio-Agnostic QoS for Body Sensor Networks\
+WallBots: Interactive Wall-Crawling Robots In the Hands of Public Artists and Political Activists\
+VoiceDraw: A Hands-Free Voice-Driven Drawing Application for People with Motor Impairments\
+TangiPaint: A Tangible Digital Painting System\
+Framelets: MRA-Based Constructions of Wavelet Frames\
+ToonFace: A System for Creating and Animating Interactive Cartoon Faces\
+COMPLEX: A Computational Lexicon for Natural Language Systems\
+EasyToon: An Easy and Quick Tool to Personaliz e a Cartoon Storyboard Using Family Photo Album\
+SCOPE: a probabilistic model for scoring tandem mass spectra against a peptide database\
+CoSke: An Exploration in Collaborative Sketching\
+AnnoSearch: Image Auto-Annotation by Search\
+XFastMesh: Fast View-dependent Meshing from External Memory\
+VowSynth: A Synthesizer of Vowel Sounds based on Additive Synthesis\
+Personify: A Toolkit for Perceptually Meaningful Sonification\
+BoxRouter: A New Global Router Based on Box Expansion\
+MoPho: Do Mobile Phones Dream of Electric Orchestras\
+Grid-Flow: A grid-enabled scientific workflow system with a Petri-net-based interface\
+MATConcat: an application for exploring concatenative sound synthesis using MATLAB\
+COLLAGEN: A Collaboration Manager for Software Interface Agents\
+SWATT: SoftWare-based ATTestation for Embedded Devices\
+ChroMirror: A Real-Time Interactive Mirror for Chromatic and Color-Harmonic Dressing\
+PreHeat: Controlling Home Heating Using Occupancy Prediction\
+MoVi: Mobile Phone based Video Highlights via Collaborative Sensing\
+CompAcc: Using Mobile Phone Compasses and Accelerometers for Localization\
+CloSpan: Mining Closed Sequential Patterns in Large Datasets\
+BootCaT: Bootstrapping Corpora and Terms from the Web\
+GlossBoot: Bootstrapping Multilingual Domain Glossaries from the Web\
+SoundSense: Scalable Sound Sensing for People-Centric Applications on Mobile Phones\
+BodyDim: Body dimension pictograms for size designation of clothes generated with MetaPost\
+HyTech: The Cornell HYbrid TECHnology Tool\
+TruWallet: Trustworthy and Migratable Wallet-Based Web Authentication\
+ActorNet: An Actor Platform for Wireless Sensor Networks\
+PeerTrust: Supporting Reputation-Based Trust for Peer-to-Peer Electronic Communities\
+CorMet: A computational, corpus-based conventional metaphor extraction system\
+MetaCost: A General Method for Making Classifiers Cost-Sensitive\
+MultiJava: Modular Open Classes and Symmetric Multiple Dispatch for Java\
+DistEdit: A Distributed Toolkit for Supporting Multiple Group Editors\
+Artex: Artificial Textures from Everyday Surfaces for Touchscreens\
+Cellsort: High performance sorting on the cell processor\
+CROMALIM: A CROss-language MAiling LIst Manager\
+LEAP: A learning apprentice for VLSI design\
+MobiSpray: Mobile phone as Virtual Spray Can for Painting BIG Anytime Anywhere on Anything\
+VirSculpt: a virtual sculpting environment\
+InterPro: the integrative protein signature database\
+Netqope: A model-driven network qos provisioning engine for distributed real-time and embedded systems\
+ClustOfVar: An R Package for the Clustering of Variables\
+CrossFlow: Cross-organizational workflow management in dynamic virtual enterprises\
+BRAINSUP: Brainstorming Support for Creative Sentence Generation\
+leanTAP: Lean Tableau-based Deduction\
+ParWave: Parallel Wavelet Video Coding\
+GraSp: Grammar learning from unlabelled speech corpora\
+Autobib: Automatic extraction of bibliographic information on the web\
+MobiSoC: A Middleware for Mobile Social Computing Applications\
+OverQoS: An Overlay based Architecture for Enhancing Internet QoS\
+WearCom: A Wearable Communication Space\
+CoDNS: Improving DNS Performance and Reliability via Cooperative Lookups\
+IsaWhelk: Whelk Interpreted in Isabelle\
+ConSearch: An Concept-Associating Search Interface using\
+CVSSearch: Searching through Source Code using CVS Comments\
+DiveInto: Supporting Diversity in Intrusion-Tolerant Systems\
+DIVE-C: Distributed-parallel Virtual Environment on Cloud Computing Platform\
+DiVES: A Distributed Support for Networked Virtual Environments\
+MathSAT: Tight integration of SAT and mathematical decision procedures\
+CompostBin: A DNA composition-based algorithm for binning environmental shotgun reads\
+NetSolve: A Network Server for Solving Computational Science Problems\
+CoCo: Composition Model and Composition Model Implementation\
+QueryCat: Automatic Categorization of MEDLINE Queries\
+MobiDesk: Mobile Virtual Desktop Computing\
+CoMine: Efficient Mining of Correlated Patterns\
+PUMA: Phase Unwrapping via MAx flows\
+AntHocNet: an ant-based hybrid routing algorithm for mobile ad hoc networks\
+ConfViz: Supportive Configuration Visualization for Guaranteed Coverage Analysis\
+SemperWiki: a semantic personal Wiki\
+OntoWiki: Community-driven Ontology Engineering and Ontology Usage based on Wikis\
+FSMtest: Synthesis for Testability and Test Generation of PLA-Based FSMs\
+BioMedia: Multimedia Information Systems for Biology Research, Education and Collaboration\
+DisCarte: A Disjunctive Internet Cartographer  \
+ReMoS: A Resource Monitoring System for Network-Aware Applications\
+AIS-Lib: An AIS Library for Ad Hoc and Sensor Wireless Networks\
+MobiVis: A Visualization System for Exploring Mobile Data\
+pyGlobus: A Python interface to the Globus Toolkit\
+DiTTO: Diagrams Transformation inTo OWL\
+MiCOpA: Micro-Credit Operation Automation SPIDER\
+TOSThreads: Thread-safe and Non-Invasive Preemption in TinyOS\
+OpenSim: Open-source Software to Create and Analyze Dynamic Simulations of Movement\
+PyTensor: A Python based Tensor Library\
+pycdec: A Python interface to cdec\
+PyORBIT: A PYTHON SHELL FOR ORBIT\
+PyModel: Model-based testing in Python\
+Pybel: a Python wrapper for the OpenBabel cheminformatics\
+PyRovio: Python API for WowWee Rovio\
+gpustats: GPU Library for Statistical Computing in Python\
+GpuPy: Transparently and Efficiently Using a GPU for Numerical Computation in Python\
+AUTOCLUST: Automatic Clustering via Boundary Extraction for Mining Massive Point-Data Sets\
+Polysp: a polysystemic, phonetically-rich approach to speech understanding\
+TileTrack: Capacitive Human Tracking Using Floor Tiles\
+MATAD: A program package for the computation of massive tadpoles Comput\
+TOPCONS: consensus prediction of membrane protein topology\
+VoiceNotes: A Speech Interface for a Hand-held Voice Notetaker\
+SCORE: SPICE COmpatible Reluctance Extraction\
+PeerTrust: Automated Trust Negotiation for Peers on the Semantic Web\
+OnTraJaCS: Ontology based Traffic Jam Control System\
+SeRLoc: Secure Range-Independent Localization for Wireless Sensor Networks\
+Userrec: A user recommendation framework in social tagging systems\
+PrepLex: a lexicon of French prepositions for parsing\
+RaceTrack: Efficient detection of data race conditions via adaptive tracking\
+CoMet: Comparative Methodology A Technical Note: Transport Systems\
+Biobench: A benchmark suite of bioinformatics applications\
+Iceshow: A Monte Carlo Generator Of Particle Showers In Ice\
+SoDa: a project for the integration and exploitation of networked solar radiation databases\
+CombeChem: Combinatorial Chemistry and the Grid\
+ClassBench: A Packet Classification Benchmark\
+NetBench: A benchmarking Suite for Network Processors\
+PowerBench: A Scalable Testbed Infrastructure for Benchmarking Power Consumption\
+MoCoShoP: supporting mobile and collaborative shopping and planning of interiors\
+CoCoDoc: a framework for collaborative compound document editing based on OpenDoc and CORBA\
+COMPASS: A Comprehensible Assertion Method\
+CONQUER: A Continual Query System for Update Monitoring in the WWW\
+MoveMine: Mining Moving Object Data for Discovery of Animal Movement Patterns\
+SUBSKY: Efficient computation of skylines in subspaces\
+SIMUUN: A SIMULATION ENVIRONMENT Abstract FOR UNDULATORY LOCOMOTION\
+}
