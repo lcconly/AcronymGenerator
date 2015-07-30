@@ -29,7 +29,7 @@ GenAcronym/src:代码部分
 =====================================================================================
 
 下面主要是之前的一些尝试，和主要程序无关
-缩略词分类/:在CiteSeerx上查找的含缩略词的分类
-SearchCrawler/CiteSeerx_search.java:在CiterSeerx上爬虫寻找文章标题程序
-GetPaperName/：采用LSI获取缩略词的方式
-GenAcronym/src/handler：采用K-means分类的方式，包含利用TF-idf训练的方法
+    缩略词分类/:在CiteSeerx上查找的含缩略词的分类
+    SearchCrawler/CiteSeerx_search.java:在CiterSeerx上爬虫寻找文章标题程序
+    GetPaperName/：采用LSI获取缩略词的方式
+    GenAcronym/src/handler：采用K-means分类的方式，包含利用TF-idf训练的方法
